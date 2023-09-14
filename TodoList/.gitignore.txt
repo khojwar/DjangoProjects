@@ -1,0 +1,20 @@
+# .gitignore
+
+# Database configuration
+db.sqlite3
+TodoList/settings.py
+
+
+# Static and media files
+static/
+media/
+
+
+# Virtual environment
+venv/
+
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
